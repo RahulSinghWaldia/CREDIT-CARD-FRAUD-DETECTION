@@ -1,6 +1,8 @@
 # CREDIT-CARD-FRAUD
 Credit Card Fraud Data Science Project
+
 Project Overview
+
 The Credit Card Fraud Data Science Project aims to develop a predictive model to detect fraudulent transactions in credit card data. The objective is to build an accurate and reliable system that can identify fraudulent activities, enabling proactive measures to prevent financial losses for credit card companies and customers.
 
 # Project Objectives
