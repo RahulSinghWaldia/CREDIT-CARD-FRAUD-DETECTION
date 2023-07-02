@@ -12,14 +12,14 @@ Data Source
 The project utilizes the Credit Card Fraud dataset, obtained from [source/link]. The dataset contains anonymized credit card transactions with labeled fraud instances. It includes features such as transaction amount, time, and anonymized numerical features derived from the transaction data.
 
 # Methodology
-Data Exploration: Perform exploratory data analysis to gain insights into the dataset, understand the distribution of fraudulent transactions, and identify potential patterns.
-Data Preprocessing: Clean the dataset by handling missing values, outliers, and scaling features as necessary. Address class imbalance if present.
-Feature Engineering: Extract or create relevant features from the data that may aid in fraud detection, such as transaction frequency, amount deviations, and temporal features.
-Model Selection: Evaluate and compare various machine learning algorithms suitable for fraud detection, such as logistic regression, random forest, or gradient boosting.
-Model Training and Evaluation: Split the dataset into training and testing sets. Train the selected models on the training set and evaluate their performance using appropriate evaluation metrics (e.g., precision, recall, F1-score, ROC curve).
-Model Optimization: Fine-tune the chosen model(s) by tuning hyperparameters or employing techniques like cross-validation or ensemble learning to improve performance.
-Model Validation: Validate the final model(s) on an independent validation set or through cross-validation to ensure generalization and reliability.
-Results Interpretation: Analyze and interpret the model's predictions, feature importance, and decision boundaries to gain insights into fraudulent patterns and characteristics.
+# Data Exploration: Perform exploratory data analysis to gain insights into the dataset, understand the distribution of fraudulent transactions, and identify potential patterns.
+# Data Preprocessing: Clean the dataset by handling missing values, outliers, and scaling features as necessary. Address class imbalance if present.
+# Feature Engineering: Extract or create relevant features from the data that may aid in fraud detection, such as transaction frequency, amount deviations, and temporal features.
+# Model Selection: Evaluate and compare various machine learning algorithms suitable for fraud detection, such as logistic regression, random forest, or gradient boosting.
+# Model Training and Evaluation: Split the dataset into training and testing sets. Train the selected models on the training set and evaluate their performance using appropriate evaluation metrics (e.g., precision, recall, F1-score, ROC curve).
+# Model Optimization: Fine-tune the chosen model(s) by tuning hyperparameters or employing techniques like cross-validation or ensemble learning to improve performance.
+# Model Validation: Validate the final model(s) on an independent validation set or through cross-validation to ensure generalization and reliability.
+# Results Interpretation: Analyze and interpret the model's predictions, feature importance, and decision boundaries to gain insights into fraudulent patterns and characteristics.
 Reporting and Recommendations: Prepare a comprehensive report summarizing the findings, model performance, insights, and recommendations for fraud prevention strategies.
 
 # Tools and Technologies
