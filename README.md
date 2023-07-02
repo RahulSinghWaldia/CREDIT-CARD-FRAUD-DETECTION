@@ -9,7 +9,7 @@ Explore and analyze the characteristics and patterns of fraudulent transactions.
 Evaluate and compare different machine learning algorithms for fraud detection.
 Provide insights and recommendations for improving fraud prevention strategies.
 Data Source
-The project utilizes the Credit Card Fraud dataset, obtained from [source/link]. The dataset contains anonymized credit card transactions with labeled fraud instances. It includes features such as transaction amount, time, and anonymized numerical features derived from the transaction data.
+The project utilizes the Credit Card Fraud dataset, obtained from https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input. The dataset contains anonymized credit card transactions with labeled fraud instances. It includes features such as transaction amount, time, and anonymized numerical features derived from the transaction data.
 
 # Methodology
  Data Exploration: Perform exploratory data analysis to gain insights into the dataset, understand the distribution of fraudulent transactions, and identify potential patterns.
